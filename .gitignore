@@ -26,6 +26,7 @@
 
 # other
 !.gitignore
+!README.md
 !508.shtml
 !504.shtml
 !502.shtml
