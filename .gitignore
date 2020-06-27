@@ -1,0 +1,33 @@
+## ignore everything
+*
+
+
+## allow these files
+
+# css
+!style.css
+!style-dark.css
+!style-light.css
+
+#images
+!walker.png
+!moon.svg
+
+# PHP pages
+!index.php
+!head.php
+!about.php
+!projects.php
+!top.php
+
+# fonts, from google fonts
+!lato.ttf
+!heebo.ttf
+
+# other
+!.gitignore
+!508.shtml
+!504.shtml
+!502.shtml
+!404.shtml
+!403.shtml
