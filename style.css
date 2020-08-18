@@ -6,8 +6,13 @@
   font-family: Lato;
   src: url('lato.ttf');
 }
-*{
+/* *{
   transition: 400ms;
+}*/
+.matomo{
+  position: absolute;
+  bottom: 0;
+  font-family: Lato, sans-serif;
 }
 
 body{
@@ -16,7 +21,7 @@ body{
   margin-left: 20%;
   margin-right: 20%;
   line-height: 1.7em;
-  transition: 500ms;
+  /*transition: 500ms;*/
   padding-bottom: 5vh;
   background-color: var(--bg-color);
   color: var(--txt-color);
@@ -54,6 +59,10 @@ h1,h2,h3,h4,h5,h6{
 
 #top{
   text-align: center;
+}
+.letter:hover{
+  color: var(--bg-color);
+  cursor: pointer;
 }
 #menu{
   margin-bottom: 60px;
@@ -140,7 +149,7 @@ a:hover{
   .mi, .mi:not(:last-of-type){
     display: block;
     margin: 0px;
-    transition: 300ms;
+    /*transition: 300ms;*/
   }
   #me{
     margin-top: 50px;
