@@ -1,11 +1,10 @@
   <div class=theme>
-      <a href=https://hongkongfp.com/ target=_blank><img src=hk.png id=freehk></a>
       <label>
         <input id=themeCheckbox onclick='changeCSS("style-<?=(isset($_GET['theme'])&&$_GET['theme']=='dark')?'light':'dark';?>.css")' type=checkbox style=display:none>
         <img id=moonImg class=noselect src=moon.svg>
       </label>
   </div>
-  
+
   <script>
   // function modified from lukeo.link/2o5e
   function changeCSS(cssFile) {
@@ -51,7 +50,7 @@
         $addon = (isset($_GET["theme"])&&$_GET["theme"]=="dark") ? "?theme=dark" : "" ;
   ?>
   <div id=top>
-    <h1 id=me>LUKE OGBURN</h1>
+    <h1 id="me"><span class="letter">L</span><span class="letter">U</span><span class="letter">K</span><span class="letter">E</span> <span class="letter">O</span><span class="letter">G</span><span class="letter">B</span><span class="letter">U</span><span class="letter">R</span><span class="letter">N</span></h1>
     <div id=menu>
       <h3 class=mi><a id=js1 href=/<?=$addon?>>HOME</a></h3><!--
    --><h3 class=mi><a id=js2 href=about.php<?=$addon?>>ABOUT</a></h3><!--
