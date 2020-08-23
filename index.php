@@ -19,7 +19,7 @@
         which you should definitely check out.
     </p>
     <p>The Chinese Communist Party has <a href=https://transitjam.com/2020/06/30/national-security-law-english-translation/#_Toc44451716 target=_blank>made it illegal world-wide</a> to criticize their rule or promote
-       freedom to Hong Kong. For that reason, I find it necessary to use this medium to express the incredible amount of disdain I hold 
+       freedom to Hong Kong. For that reason, I find it necessary to use this medium to express the incredible amount of disdain I hold
        for the CCP and declare that I fully support any efforts to end their rule in China, including
        the restoration of the rightful autonomy of Hong Kong. <a href=https://www.reddit.com/r/HongKong/comments/czhs4q/the_five_demands_of_the_protest/ target=_blank>Five demands, not one less</a>.<br>
        <a href=https://hongkongfp.com/>Hong Kong Free Press</a>, <a href=https://hk.appledaily.com/engnews/>Apple Daily</a>.</p>
@@ -35,6 +35,9 @@
       <a class=networkLink target=_blank href=https://linkedin.com/in/logburn>LINKEDIN</a>
       <a class=networkLink target=_blank href=https://pixelfed.social/logburn>PIXELFED</a>
       <a class=networkLink target=_blank href=resume/>RESUME</a>
+  </div>
+  <div class=bottom>
+    <a href=pubkey.txt>PGP key</a>
   </div>
 </body>
 </html>
