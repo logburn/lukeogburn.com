@@ -37,7 +37,7 @@
       <a class=networkLink target=_blank href=resume/>RESUME</a>
   </div>
   <div class=bottom>
-    <a href=pubkey.txt>PGP key</a>
+    <a href=pubkey.txt target=_blank>PGP key</a>
   </div>
 </body>
 </html>

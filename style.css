@@ -6,9 +6,6 @@
   font-family: Lato;
   src: url('lato.ttf');
 }
-/* *{
-  transition: 400ms;
-}*/
 .matomo{
   position: absolute;
   bottom: 0;
@@ -29,6 +26,7 @@ body{
 }
 h1,h2,h3,h4,h5,h6{
   font-family: Heebo, sans-serif;
+  font-weight: 500;
   color: var(--secondary-txt-color);
 }
 
@@ -116,7 +114,6 @@ a:hover{
 }
 .networkLink{
   font-family: Heebo, sans-serif;
-  font-weight: 700;
   text-align: center;
   border: 1px solid var(--green);
   border-radius: 0.3em;
@@ -127,7 +124,18 @@ a:hover{
   color: white;
   text-decoration: none;
 }
-
+.bottom{
+  margin-top: 4em;
+  width: 100%;
+  text-align: center;
+}
+.bottom>a{
+  color: #ccc;
+  font-size: 0.8em;
+}
+.bottom>a:hover{
+  text-decoration: none;
+}
 
 @media (max-width: 1000px){
   body{
