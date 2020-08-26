@@ -39,6 +39,23 @@ h1,h2,h3,h4,h5,h6{
             user-select: none; /* Non-prefixed version, currently
                                   supported by Chrome, Opera and Firefox */
 }
+.notice{
+    background-color: #00ab4488;
+    border-radius: 1.3em;
+    text-align: center;
+    width: 80%;
+    padding: 0.3em 0.25em;
+    margin: 3em auto;
+    color: var(--txt-color);
+}
+.notice>p{
+    padding: 0;
+    margin: 0;
+}
+.attention{
+    font-weight: bold;
+}
+
 #moonImg{
     width: 1em;
     position: absolute;

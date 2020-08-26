@@ -1,6 +1,6 @@
 <!--
-  Yes, I code everything myself. 
-  I know HTML, CSS, PHP, and javascript 
+  Yes, I code everything myself.
+  I know HTML, CSS, PHP, and javascript
   I avoid js wherever I can, usually substituting with CSS, but I can work with it.
 -->
 
@@ -8,8 +8,12 @@
 <html lang=en>
 <?php include "head.php"; ?>
 <body>
-    
+
 <?php include "top.php"; ?>
+
+<div class=notice>
+  <p><span class=attention>Please note:</span> due to recent server migration, many links will be temporarily broken.</p>
+</div>
 
 <h2 id=name>PROJECTS</h2>
 <div class=content>
