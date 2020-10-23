@@ -2,11 +2,6 @@
   Yes, I code everything myself.
   I know HTML, CSS, PHP, and javascript
   I avoid js wherever I can, usually substituting with CSS, but I can work with it.
-  
-
-  =========
-  ignore this line, it is just a test
-  =========
 -->
 
 <!doctype html>
