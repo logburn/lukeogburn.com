@@ -32,6 +32,8 @@ This site was based off of this site. I basically wanted to only write 500 words
 <h2>Blog:</h2>
 This blog never really amounted to much as I never really maintained it. It was mostly thrown together because I wanted to practice my PHP, so even though the blog itself is basically a failure I still gained a lot from it in terms of experience. I plan to bring it back one day, but I currently have no real reason to do so.
     <br>Technologies used: HTML, CSS, PHP, PDO, SQL<br>
+I have since switched to using <a href=https://ghost.org/>Ghost</a> to self-host my blog.
+    <br>Technologies used: Docker, server management<br>
     You can find it <a href=https://blog.lukeogburn.com/>here</a>, though I don't post much (at all...).
 
 <h2>Rubik's Cube:</h2>
