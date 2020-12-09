@@ -11,10 +11,6 @@
 
 <?php include "top.php"; ?>
 
-<div class=notice>
-  <p><span class=attention>Please note:</span> due to recent server migration, many links will be temporarily broken.</p>
-</div>
-
 <h2 id=name>PROJECTS</h2>
 <div class=content>
 These are my past projects. Some of them were designed to teach me back-end, and some were designed to teach me front-end. These were all learning experiences for me, so while nothing is designed to actually be used in mass (ei, the user interface may be poor), I learned a lot and designed each project to give me practice in a certain topic. Much of what I learned is missing from my earlier sites, since I learned as I created.
@@ -27,7 +23,8 @@ This web riddle series was a lot of fun for me to create. Once I got the design 
 <h2>500 Words:</h2>
 This site was based off of this site. I basically wanted to only write 500 words because 750 is just outrageous. It used to store information in an unencrypted text file, but I have updated it to be both encrypted and stored in a database instead. The encryption uses the user's password as a key, but since the password is hashed in the database there is no way for me, the owner, to unlock the information. This was something of an exploration into cryptography.
     <br>Technologies used: HTML, CSS, JS, PHP, PDO, SQL<br>
-    You can find it <a href=https://500.lukeogburn.com/ target=_blank>here</a> if you want to check it out.
+    This project is currently broken due to server migration issues. But trust me, it's awesome.
+    <!--You can find it <a href=https://500.lukeogburn.com/ target=_blank>here</a> if you want to check it out.-->
 
 <h2>Blog:</h2>
 This blog never really amounted to much as I never really maintained it. It was mostly thrown together because I wanted to practice my PHP, so even though the blog itself is basically a failure I still gained a lot from it in terms of experience. I plan to bring it back one day, but I currently have no real reason to do so.
