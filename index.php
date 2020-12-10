@@ -7,7 +7,7 @@
 <!doctype html>
 <html lang=en>
 <?php include "head.php"; ?>
-<body>
+<body><div id=body>
 
 <?php include "top.php"; ?>
 
@@ -37,5 +37,5 @@
   <div class=bottom>
     <a href=pubkey.txt target=_blank>PGP key</a>
   </div>
-</body>
+</div></body>
 </html>

@@ -14,15 +14,16 @@
 
 body{
   font-family: Lato, sans-serif;
-  width: 60%;
-  margin-left: 20%;
-  margin-right: 20%;
   line-height: 1.7em;
-  /*transition: 500ms;*/
-  padding-bottom: 5vh;
   background-color: var(--bg-color);
   color: var(--txt-color);
   font-size: 1.07em;
+}
+#body{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 5vh;
 }
 h1,h2,h3,h4,h5,h6{
   font-family: Heebo, sans-serif;
@@ -155,7 +156,7 @@ a:hover{
 }
 
 @media (max-width: 1000px){
-  body{
+  #body{
     width: 80%;
     margin-left: 10%;
     margin-right: 10%;
@@ -166,7 +167,7 @@ a:hover{
 }
 
 @media (max-width: 700px){
-  body{
+  #body{
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
