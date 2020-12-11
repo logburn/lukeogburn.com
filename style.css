@@ -18,6 +18,7 @@ body{
   background-color: var(--bg-color);
   color: var(--txt-color);
   font-size: 1.07em;
+  margin: 0;
 }
 #body{
   width: 60%;
