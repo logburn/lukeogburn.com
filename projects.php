@@ -7,7 +7,7 @@
 <!doctype html>
 <html lang=en>
 <?php include "head.php"; ?>
-<body>
+<body><div id=body>
 
 <?php include "top.php"; ?>
 
@@ -48,5 +48,5 @@ This site was fun to make and I do use it myself. All it does is take a URL and 
     <br>Technologies used: HTML, CSS, PHP, PDO, SQL<br>
     You can find it <a href=https://lukeo.link target=_blank>here</a> if you want to check it out.
 </div>
-</body>
+</div></body>
 </html>

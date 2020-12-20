@@ -7,7 +7,7 @@
 <!doctype html>
 <html lang="en">
 <?php include "head.php"; ?>
-<body>
+<body><div id=body>
     
 <?php include "top.php"; ?>
 
@@ -26,5 +26,5 @@
     <h2>Animals</h2>
     <p>I think that goats are the dogs of the farm and ducks are the dogs of the air. I believe that having animals in your life is essential to mental health, so naturally I am looking forward to owning my own pets: Three goats, two dogs, and a duck.</p>
   </div>
-</body>
+</div></body>
 </html>
