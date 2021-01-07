@@ -37,5 +37,6 @@
   <div class=bottom>
     <a href=pubkey.txt target=_blank>PGP key</a>
   </div>
+  <a rel="me" href="https://mastodon.online/@logburn" style=display:none>Mastodon</a>
 </div></body>
 </html>
