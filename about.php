@@ -14,12 +14,12 @@
   <h2 id="name">ABOUT</h2>
   <div class="content">
     <h2>Programmer</h2>
-    <p>I've used this website to practice my web development skills for about three years now. I have become a full-stack developer with expertise in: HTML, CSS, JS, PHP, and SQL Database design/management. While I have some experience using C++, Java, Bash, and Python, I have not developed any full applications with them.</p>
+    <p>I've used this website to practice my web development skills for about four years now. I have become a full-stack developer with expertise in HTML, CSS, JS, PHP, and SQL Database design/management. I can certainly use Java and C but they are not my go to languages. I'm also trying to learn Kotlin and Rust to develop open source applications.</p>
   </div>
 
   <div class="content">
     <h2>Student</h2>
-    <p>I am a freshman in college, majoring in both CS and ISAT. I'm interested in the field of technology but I'm not sure exactly what I want to do with it - so I'm double majoring to keep my doors open.</p>
+    <p>I am a Sophomore James Madison University, majoring in Computer Science and eyeing a Robotics minor. I am very interesting in secure communications and cryptography in general, hoping do develop a secure system or two by the time I'm out of college.</p>
   </div>
 
   <div class="content">
