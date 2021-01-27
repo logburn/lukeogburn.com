@@ -19,7 +19,7 @@
 
   <div class="content">
     <h2>Student</h2>
-    <p>I am a Sophomore James Madison University, majoring in Computer Science and eyeing a Robotics minor. I am very interesting in secure communications and cryptography in general, hoping do develop a secure system or two by the time I'm out of college.</p>
+    <p>I am a Sophomore James Madison University, majoring in Computer Science and eyeing a Robotics minor. I am very interesting in secure communications and cryptography in general, hoping to develop a secure system or two by the time I'm out of college.</p>
   </div>
 
   <div class="content">
