@@ -44,7 +44,7 @@ This is basically a social media site. I designed it to be used for school-based
     You can find it <a href=https://ib.lukeogburn.com/>here</a>, but functionality may be limited and you will be on a "guest" account.
 
 <h2>URL Shortener:</h2>
-This site was fun to make and I do use it myself. All it does is take a URL and make it into another url. For example, lukeogburn.com is shortened to lukeo.link/TvVif. If a URL is submitted again, it will use the same short URL as before. I did buy a separate domain for this site, so I won't be keeping up with it once I decide that it's not worth the price. No idea when that'll be, so for now it's only use is as a temporary URL shortener for simple convenience.
+This site was fun to make and I do use it myself. All it does is take a URL and make it into another url. For example, lukeogburn.com is shortened to lukeo.link/og. If a URL is submitted again, it will use the same short URL as before. I did buy a separate domain for this site, so I won't be keeping up with it once I decide that it's not worth the price. No idea when that'll be, so for now it's only use is as a temporary URL shortener for simple convenience.
     <br>Technologies used: HTML, CSS, PHP, PDO, SQL<br>
     You can find it <a href=https://lukeo.link target=_blank>here</a> if you want to check it out.
 </div>
