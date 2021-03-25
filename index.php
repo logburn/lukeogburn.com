@@ -12,9 +12,9 @@
 <?php include "top.php"; ?>
 
   <div id=content>
-    <p>My name is <span class="letter">L</span><span class="letter">u</span><span class="letter">k</span><span class="letter">e</span> <span class="letter">O</span><span class="letter">g</span><span class="letter">b</span><span class="letter">u</span><span class="letter">r</span><span class="letter">n</span>, and I'm a full stack web developer. I'm going to
+    <p>My name is <span class="letter">L</span><span class="letter">u</span><span class="letter">k</span><span class="letter">e</span> <span class="letter">O</span><span class="letter">g</span><span class="letter">b</span><span class="letter">u</span><span class="letter">r</span><span class="letter">n</span>, and I'm a full stack web developer. I'm attending
        JMU to major in Computer Science, and I'm going to study abroad if I can.
-       I have recently started to use <a target=_blank href=https://github.com/logburn>github</a>, which you should definitely check out.
+       I have recently started to use <a target=_blank href=https://github.com/logburn>github</a>, which you should definitely check out! I'm very interested in concepts like cryptography and decentralization. My favorite idea is federation and I'm always on the lookout for new ways to explore the technologies being developed.
     </p>
     <!--<p>The Chinese Communist Party has <a href=https://transitjam.com/2020/06/30/national-security-law-english-translation/#_Toc44451716 target=_blank>made it illegal world-wide</a> to criticize their rule or promote
        freedom to Hong Kong. For that reason, I find it necessary to use this medium to express the disdain that I hold
