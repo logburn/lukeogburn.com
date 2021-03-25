@@ -16,11 +16,11 @@
        JMU to major in Computer Science, and I'm going to study abroad if I can.
        I have recently started to use <a target=_blank href=https://github.com/logburn>github</a>, which you should definitely check out.
     </p>
-    <p>The Chinese Communist Party has <a href=https://transitjam.com/2020/06/30/national-security-law-english-translation/#_Toc44451716 target=_blank>made it illegal world-wide</a> to criticize their rule or promote
+    <!--<p>The Chinese Communist Party has <a href=https://transitjam.com/2020/06/30/national-security-law-english-translation/#_Toc44451716 target=_blank>made it illegal world-wide</a> to criticize their rule or promote
        freedom to Hong Kong. For that reason, I find it necessary to use this medium to express the disdain that I hold
        for the CCP and declare that I fully support any efforts to end their rule in China, including
        the restoration of the rightful autonomy of Hong Kong. <a href=https://hongkongfp.com/2020/06/25/explainer-from-five-demands-to-black-cops-to-independence-the-evolution-of-hong-kongs-protest-slogans/ target=_blank>Five demands, not one less</a>.<br>
-       <a href=https://hongkongfp.com/>Hong Kong Free Press</a>, <a href=https://hk.appledaily.com/engnews/>Apple Daily</a>.</p>
+       <a href=https://hongkongfp.com/>Hong Kong Free Press</a>, <a href=https://hk.appledaily.com/engnews/>Apple Daily</a>.</p>-->
   </div>
 
   <h2 class=name>CONNECT</h2>
