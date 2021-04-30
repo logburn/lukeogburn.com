@@ -1,9 +1,3 @@
-<!--
-  Yes, I code everything myself. 
-  I know HTML, CSS, PHP, and javascript 
-  I avoid js wherever I can, usually substituting with CSS, but I can work with it.
--->
-
 <!doctype html>
 <html lang="en">
 <?php include "head.php"; ?>
