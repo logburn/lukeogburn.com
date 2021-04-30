@@ -12,16 +12,9 @@
 <?php include "top.php"; ?>
 
   <div id=content>
-    <p>My name is <span class="letter">L</span><span class="letter">u</span><span class="letter">k</span><span class="letter">e</span> <span class="letter">O</span><span class="letter">g</span><span class="letter">b</span><span class="letter">u</span><span class="letter">r</span><span class="letter">n</span>, and I'm a full stack web developer. I'm attending
-       JMU to major in Computer Science, and I'm going to study abroad if I can.
-       I have recently started to use <a target=_blank href=https://github.com/logburn>github</a>, which you should definitely check out! I'm very interested in concepts like cryptography and decentralization. My favorite idea is federation and I'm always on the lookout for new ways to explore the technologies being developed.
+    <p>My name is <span class="letter">L</span><span class="letter">u</span><span class="letter">k</span><span class="letter">e</span> <span class="letter">O</span><span class="letter">g</span><span class="letter">b</span><span class="letter">u</span><span class="letter">r</span><span class="letter">n</span>, and I'm a software developer studying Computer Science at James Madison University. I'm interested in technologies that give power to the common people, such as encryption and federation. I'm always on the lookout for new ideas or projects that fit this category. On that note, I am a strong supporter of open source. I also practice what I preach: almost all of my code is available on my <a target=_blank href=https://github.com/logburn>Github</a> and is licensed under the <a target=_blank href=https://www.gnu.org/licenses/gpl-3.0.en.html>GNU GPLv3</a>. On the flip side, I also despise those who seek to control others, such as the Chinese Communist Party, or even the United State's own far-overreaching practices.
     </p>
-    <!--<p>The Chinese Communist Party has <a href=https://transitjam.com/2020/06/30/national-security-law-english-translation/#_Toc44451716 target=_blank>made it illegal world-wide</a> to criticize their rule or promote
-       freedom to Hong Kong. For that reason, I find it necessary to use this medium to express the disdain that I hold
-       for the CCP and declare that I fully support any efforts to end their rule in China, including
-       the restoration of the rightful autonomy of Hong Kong. <a href=https://hongkongfp.com/2020/06/25/explainer-from-five-demands-to-black-cops-to-independence-the-evolution-of-hong-kongs-protest-slogans/ target=_blank>Five demands, not one less</a>.<br>
-       <a href=https://hongkongfp.com/>Hong Kong Free Press</a>, <a href=https://hk.appledaily.com/engnews/>Apple Daily</a>.</p>-->
-  </div>
+</div>
 
   <h2 class=name>CONNECT</h2>
   <div class=network>
