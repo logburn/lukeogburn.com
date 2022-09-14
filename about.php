@@ -13,7 +13,7 @@
 
   <div class="content">
     <h2>Student</h2>
-    <p>I am a Senior James Madison University, majoring in Computer Science. I am very interesting in secure communications and cryptography in general.</p>
+    <p>I am a Senior James Madison University, majoring in Computer Science. I am very interested in secure communications and cryptography in general.</p>
   </div>
 
   <div class="content">
