@@ -8,17 +8,12 @@
   <h2 id="name">ABOUT</h2>
   <div class="content">
     <h2>Programmer</h2>
-    <p>I've used this website to practice my web development skills for about four years now. I have become a full-stack developer with expertise in HTML, CSS, JS, PHP, and SQL Database design/management. I can certainly use Java and C but they are not my go to languages. I'm also trying to learn Kotlin and Rust to develop open source applications.</p>
+    <p>I've used this website to practice my web development skills for over ten years now. I have become a full-stack developer with expertise ranging from frontend design to database management. At this point I can pick up pretty much anything web-related and start building with it. I graduated in 2023 and continue to learn more from personal projects and jobs.</p>
   </div>
 
   <div class="content">
-    <h2>Student</h2>
-    <p>I am a Senior James Madison University, majoring in Computer Science. I am very interested in secure communications and cryptography in general.</p>
-  </div>
-
-  <div class="content">
-    <h2>Animals</h2>
-    <p>I think that goats are the dogs of the farm and ducks are the dogs of the air. I believe that having animals in your life is essential to mental health, so naturally I am looking forward to owning my own pets: Three goats, two dogs, and a duck.</p>
+    <h2>Language</h2>
+    <p>Aside from programming languages, I also enjoy learning human languages. I speak a high level of Spanish and am working towards the same goal in French. Afterwards I intent to work on a harder and more niche language, Albanian.</p>
   </div>
 </div></body>
 </html>
