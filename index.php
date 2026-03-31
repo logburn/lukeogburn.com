@@ -21,7 +21,6 @@
     &nbsp;
     <a href=http://ogburna677eccmr454cajfqii5vjky6pq5k4afgpdtcyewwpsxcrwaid.onion:88>onion</a>
   </div>
-  <a rel="me" href="https://mastodon.online/@logburn" style=display:none>Mastodon</a>
 </div></body>
 </html>
 
