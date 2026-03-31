@@ -6,18 +6,14 @@
 <?php include "top.php"; ?>
 
   <div id=content>
-    <p>My name is <span class="letter">L</span><span class="letter">u</span><span class="letter">k</span><span class="letter">e</span> <span class="letter">O</span><span class="letter">g</span><span class="letter">b</span><span class="letter">u</span><span class="letter">r</span><span class="letter">n</span>, and I'm a software developer currently working as a full-stack web developer at <a target="_blank" href="https://www.consultwithcase.com/">CASE</a>. I'm currently getting my Master's degree in data science at <a target="_blank" href="https://www.eastern.edu/">Eastern University</a>, potentially looking to specialize in NLP. I really enjoy helping people and solving problems. I also enjoy reading, hiking, and studying Christian theology. I love open-source, and most of the code I write is available on <a target="_blank" href="https://github.com/logburn">GitHub</a> and is licensed under the <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPLv3</a>.</p>
+    <p>My name is <span class="letter">L</span><span class="letter">u</span><span class="letter">k</span><span class="letter">e</span> <span class="letter">O</span><span class="letter">g</span><span class="letter">b</span><span class="letter">u</span><span class="letter">r</span><span class="letter">n</span>, and I'm a software developer currently working as a full-stack web developer at <a target="_blank" href="https://www.consultwithcase.com/">CASE</a>. I have my Bachelors of Science from <a target="_blank" href="https://jmu.edu/">James Madison University</a>. I love using my skillset to help people solve problems and find insights into pre-existing data. In my freetime, I enjoy reading, hiking, and studying Christian theology. I also love open-source; most of the code I write is available on <a target="_blank" href="https://github.com/logburn">GitHub</a> and is licensed under the <a target="_blank" href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPLv3</a>.</p>
 </div>
 
   <h2 class=name>CONNECT</h2>
   <div class=network>
-      <a class=networkLink target=_blank href=mailto:lukeogburn@gmail.com>GMAIL</a>
-      <a class=networkLink target=_blank href=mailto:lukeogburn@protonmail.com>PROTON</a>
       <a class=networkLink target=_blank href=https://github.com/logburn>GITHUB</a>
-      <a class=networkLink target=_blank href=https://gitlab.com/logburn>GITLAB</a>
       <a class=networkLink target=_blank href=https://stackoverflow.com/users/13157956/luke-ogburn>STACKOVERFLOW</a>
       <a class=networkLink target=_blank href=https://linkedin.com/in/logburn>LINKEDIN</a>
-      <a class=networkLink target=_blank href=https://pixelfed.social/logburn>PIXELFED</a>
       <a class=networkLink target=_blank href=resume/>RESUME</a>
   </div>
   <div class=bottom>
